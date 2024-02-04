@@ -1,0 +1,13 @@
+span {
+  display: inline-block;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+#dogLayingDown {
+  width: 500px;
+  height: 150px;
+}
